@@ -1,0 +1,22 @@
+h1{
+    color: black;
+} 
+.header{
+    background-color: #aed3d3;
+    display: flex;
+    justify-content: space-between; 
+}
+.footer{
+    margin-top: auto;
+    display: flex;
+    justify-content: center; 
+}
+p,h2{
+    text-align: center;
+}
+body{
+    background-color: #e0e7e7;
+}
+h1{
+    padding-left: 40px;
+}
